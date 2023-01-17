@@ -14,11 +14,11 @@
 3. Git + GithubDesktop 설치
 
 ## 영문이름
-- [] 송주환 Song Juhwan
-- [] 김유강 Kim Yukang
-- [] 고준성 Ko Junseong
-- [] 정한얼 Jeong Haneol
-- [] 강주훈 Kang Juhun
-- [] 문시영 Mun Siyeong
-- [] 손태영 Son Taeyeong
-- [] 이상준 Lee Sangjun
+- [ ] 송주환 Song Juhwan
+- [ ] 김유강 Kim Yukang
+- [ ] 고준성 Ko Junseong
+- [ ] 정한얼 Jeong Haneol
+- [ ] 강주훈 Kang Juhun
+- [ ] 문시영 Mun Siyeong
+- [ ] 손태영 Son Taeyeong
+- [ ] 이상준 Lee Sangjun
